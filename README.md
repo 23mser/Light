@@ -4,7 +4,7 @@ Light
 Документация Swagger: http://localhost:8080/swagger-ui/index.html
 
 В начале работы необходимо отправить запрос POST http://localhost:8080/auth/begin для создания пользователей
-   Предусмотрено создание 4 пользователей:
+   - Предусмотрено создание 4 пользователей:
    1. "username": "username1",
       "password": "password1"
    2. "username": "username2",
