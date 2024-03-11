@@ -12,8 +12,7 @@ Light
    3. "username": "username3",
       "password": "password3"
    4. "username": "username4",
-      "password": "password4"
-=======   
+      "password": "password4" 
 
 Cистема регистрации и обработки пользовательских заявок.
 
